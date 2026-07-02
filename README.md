@@ -43,7 +43,8 @@ The system successfully displays real-time weather information, including temper
 
 ### Hardware Setup
 
-<img width="1200" height="1600" alt="WhatsApp Image 2026-06-21 at 7 40 39 PM" src="https://github.com/user-attachments/assets/d9705d8d-b14e-4d35-8a4a-8f35e45af0fa" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-02 at 1 45 49 PM" src="https://github.com/user-attachments/assets/9b2ac7de-d1d8-406a-964f-626da2f0c4e9" />
+
 
 ## Author
 
